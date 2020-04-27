@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c584680-145b-407f-8baf-49580f81818a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b7sHZ9CMwnBvdrXcLZfF4JLgVn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wiktor\Dropbox\Lab10\resources" />
+      <recent name="C:\Users\Wiktor\Dropbox\Lab10\src\test\java\org\example" />
+      <recent name="C:\Users\Wiktor\Dropbox\Lab10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GoogleTest">
+    <configuration name="FindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdemo.seleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="webdemo.seleniumDemo.FindTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GoogleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GoogleTest" />
+        <item itemvalue="JUnit.FindTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c584680-145b-407f-8baf-49580f81818a" name="Default Changelist" comment="" />
+      <created>1587994378047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587994378047</updated>
+      <workItem from="1587994380807" duration="1510000" />
+      <workItem from="1587996314387" duration="980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1588001854375">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1854" height="266" key="GridCell.Tab.0.bottom/-3840.0.1280.693/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1587996043110" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1588001854375" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1588001854374">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1854" height="266" key="GridCell.Tab.0.center/-3840.0.1280.693/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1587996043109" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1588001854374" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1588001854374">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1854" height="266" key="GridCell.Tab.0.left/-3840.0.1280.693/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1587996043109" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1588001854374" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1588001854375">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1854" height="266" key="GridCell.Tab.0.right/-3840.0.1280.693/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1587996043110" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1588001854375" />
+    <state x="640" y="218" key="Maven.ArtifactSearchDialog" timestamp="1587994701121">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="640" y="218" key="Maven.ArtifactSearchDialog/-3840.0.1280.693/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1587994701121" />
+    <state x="876" y="518" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587994604570">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="876" y="518" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-3840.0.1280.693/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1587994604570" />
+  </component>
+</project>

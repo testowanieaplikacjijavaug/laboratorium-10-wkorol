@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: webdemo.seleniumDemo.FindTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 24.042 s <<< FAILURE! - in webdemo.seleniumDemo.FindTest
+webdemo.seleniumDemo.FindTest  Time elapsed: 24.041 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:22386
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BLHV08D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: driver.version: FirefoxDriver
+	at webdemo.seleniumDemo.FindTest.setUpDriver(FindTest.java:25)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:22386
+	at webdemo.seleniumDemo.FindTest.setUpDriver(FindTest.java:25)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at webdemo.seleniumDemo.FindTest.setUpDriver(FindTest.java:25)
+

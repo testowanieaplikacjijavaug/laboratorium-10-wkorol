@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: webdemo.seleniumDemo.XPathTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in webdemo.seleniumDemo.XPathTest
+webdemo.seleniumDemo.XPathTest  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Wiktor\Dropbox\Lab10\resources\geckodriver
+	at webdemo.seleniumDemo.XPathTest.setUpDriver(XPathTest.java:26)
+
